@@ -1,0 +1,1 @@
+public class Aula3R { public static void main(String[] args) { java.util.Scanner leitorTexto = new java.util.Scanner(System.in); for (int i = 0; i < 5; i++) { System.out.println("Digite seu nome:"); String nome = leitorTexto.nextLine(); System.out.println(nome); } leitorTexto.close(); } }
