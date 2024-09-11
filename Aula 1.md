@@ -1,6 +1,6 @@
 # Variáveis e constantes
 
- `Object`: Este é um tipo de dado que representa um objeto em Java. É a classe raiz de todas as classes em Java e pode representar qualquer tipo de objeto. Este tipo de dado é usado para representar objetos criados a partir de classes definidas pelo usuário ou classes integradas ao Java.
+ - `Object`: Este é um tipo de dado que representa um objeto em Java. É a classe raiz de todas as classes em Java e pode representar qualquer tipo de objeto. Este tipo de dado é usado para representar objetos criados a partir de classes definidas pelo usuário ou classes integradas ao Java.
     
     # Constantes e Variáveis em Java
     
