@@ -62,6 +62,7 @@ O primeiro if fecha após a linha que imprime "Nota insuficiente."
 
 2. Calcule a média das duas notas de um estudante.
 3. Crie um sistema que leia a temperatura e faça a conversão para:
+
     Fahrenheit para Celsius:
     ```math
     °F = \left( °C \times \frac{9}{5} \right) + 32
@@ -73,14 +74,14 @@ O primeiro if fecha após a linha que imprime "Nota insuficiente."
     °C = \left( °F - 32 \right) \times \frac{5}{9}
    ```
    
-4. Desenvolva um programa em Java que verifique se uma pessoa é maior ou menor de idade, ainda se já é idoso ou não.
-5. Como configurar o Codespaces para rodar a versão 22 do Azul Zulu?
-6. Desenvolva um programa em Java para classificar times de futebol pelos estados do Brasil.
+5. Desenvolva um programa em Java que verifique se uma pessoa é maior ou menor de idade, ainda se já é idoso ou não.
+6. Como configurar o Codespaces para rodar a versão 22 do Azul Zulu?
+7. Desenvolva um programa em Java para classificar times de futebol pelos estados do Brasil.
 Exemplo: Time do São Paulo → Estado de São Paulo
-7. Crie um sistema que leia o dia da semana (1-7) e informe o dia correspondente.
-8. Desenvolva um sistema que leia a quantidade de produtos e o valor unitário, retornando o valor total.
-9. Implemente um programa que some valores inseridos pelo usuário até que ele digite 0, parando de rodar o programa.
-10. Localize e ajuste os erros no código abaixo:
+8. Crie um sistema que leia o dia da semana (1-7) e informe o dia correspondente.
+9. Desenvolva um sistema que leia a quantidade de produtos e o valor unitário, retornando o valor total.
+10. Implemente um programa que some valores inseridos pelo usuário até que ele digite 0, parando de rodar o programa.
+11. Localize e ajuste os erros no código abaixo:
     ```java
     public class CheckNumber {
     public static void main(String[] args) {
