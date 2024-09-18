@@ -26,6 +26,9 @@ public class Main {public static void main(String[] args) {int a=5b=10,c c=+ab;S
 3. Crie um sistema que leia a temperatura em graus Celsius e determine se ela é quente ou fria.
 4. Desenvolva um programa em Java que verifique se uma pessoa é maior ou menor de idade.
 
+# Exercícios de 16/09/2024
+1. Crie um programa em Java que, ao receber um estado do usuário como entrada, exiba uma ou mais cidades pertencentes ao estado selecionado.
+
 # Exercícios de 18/09/2024
 1. Onde fecha cada if, else if e else?
 ```java
