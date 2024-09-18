@@ -25,3 +25,78 @@ public class Main {public static void main(String[] args) {int a=5b=10,c c=+ab;S
 2. Calcule a soma das médias dos 5 estudantes e, ao final, informe se cada estudante foi aprovado ou reprovado (considere que a média de aprovação deve ser maior ou igual a 6).
 3. Crie um sistema que leia a temperatura em graus Celsius e determine se ela é quente ou fria.
 4. Desenvolva um programa em Java que verifique se uma pessoa é maior ou menor de idade.
+
+# Exercícios de 18/09/2024
+1. Onde fecha cada if, else if e else?
+```java
+public class ExemploIfEncadeado {
+    public static void main(String[] args) {
+        int nota = 85; // Alterar valor para testar
+
+        if (nota >= 70) { // Início do primeiro if
+            System.out.println("Nota suficiente."); // Linha 1
+            
+        if (nota >= 90) { // Início do segundo if
+                System.out.println("Você tirou um A."); // Linha 2
+                
+        if (nota == 100) { // Início do terceiro if
+                    System.out.println("Parabéns, nota máxima!"); // Linha 3
+        } // Fim do terceiro if
+        } else if (nota >= 80) { // Início do else if
+                    System.out.println("Você tirou um B."); // Linha 4
+        if (nota >= 85) { // Início do quarto if
+                    System.out.println("Muito bom, quase um A!"); // Linha 5
+        } // Fim do quarto if
+        } else { // Início do else
+                    System.out.println("Você tirou um C."); // Linha 6
+        } // Fim do else
+        } else { // Início do else
+            System.out.println("Nota insuficiente."); // Linha 7
+        } // Fim do primeiro if
+    } // Fim do método main
+} // Fim da classe
+
+```
+Informe como no exemplo:
+O primeiro if fecha após a linha que imprime "Nota insuficiente."
+
+2. Calcule a média das duas notas de um estudante.
+3. Crie um sistema que leia a temperatura e faça a conversão para:
+    Fahrenheit para Celsius:
+    ```math
+    °F = \left( °C \times \frac{9}{5} \right) + 32
+    ```
+
+
+   Celsius para Fahrenheit
+   ```math
+    °C = \left( °F - 32 \right) \times \frac{5}{9}
+   ```
+   
+4. Desenvolva um programa em Java que verifique se uma pessoa é maior ou menor de idade, ainda se já é idoso ou não.
+5. Como configurar o Codespaces para rodar a versão 22 do Azul Zulu?
+6. Desenvolva um programa em Java para classificar times de futebol pelos estados do Brasil.
+Exemplo: Time do São Paulo → Estado de São Paulo
+7. Crie um sistema que leia o dia da semana (1-7) e informe o dia correspondente.
+8. Desenvolva um sistema que leia a quantidade de produtos e o valor unitário, retornando o valor total.
+9. Implemente um programa que some valores inseridos pelo usuário até que ele digite 0, parando de rodar o programa.
+10. Localize e ajuste os erros no código abaixo:
+    ```java
+    public class CheckNumber {
+    public static void main(String[] args) {
+        int number = 10;
+
+        if (number > 0) {
+            System.out.println("Number is positive")
+        else {
+            System.out.println("Number is negative or zero";
+        }
+
+        if (number < 5
+            System.out.println("Number is less than 5");
+        } else {
+            System.out.println("Number is 5 or more);
+        }
+    }
+    }
+    ```
