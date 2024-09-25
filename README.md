@@ -106,7 +106,7 @@ Exemplo: Time do São Paulo → Estado de São Paulo
     ```
 
 # Exercícios de 23/09/2024
-1. A prefeitura de uma cidade deseja fazer uma pesquisa entre seus habitantes. Faça um algoritmo para coletar dados sobre o salário e número de filhos de cada habitante e após as leituras, escrever:
+1. A prefeitura de uma cidade deseja fazer uma pesquisa entre seus habitantes. Faça um programa em Java para coletar dados sobre o salário e número de filhos de cada habitante e após as leituras, escrever:
 
 a. Média de salário da população; 
 
@@ -121,6 +121,6 @@ Obs.: O final das leituras dos dados se dará com a entrada de um “salário ne
 2. Crie um programa em Java que imprima a tabuada do 2, até 100 vezes.
 3. Crie um sistema em Java para a leitura dos 30 usuários na empresa Davi's Model.
 4. Crie um programa em Java que imprima apenas os múltiplos de 3 e 7, até 100 vezes. 
-5. Faça um algoritmo para ler 50 números e armazenar em um vetor VET, verificar e escrever se existem números repetidos no vetor VET e em que posições se encontram.
+5. Faça um programa em Java para ler 50 números e armazenar em um vetor VET, verificar e escrever se existem números repetidos no vetor VET e em que posições se encontram.
 
 
