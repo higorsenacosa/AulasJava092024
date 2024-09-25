@@ -117,6 +117,7 @@ c. Maior salário dos habitantes;
 d. Percentual de pessoas com salário menor que R$ 150,00
 
 Obs.: O final das leituras dos dados se dará com a entrada de um “salário negativo”. 
+
 2. Crie um programa em Java que imprima a tabuada do 2, até 100 vezes.
 3. Crie um sistema em Java para a leitura dos 30 usuários na empresa Davi's Model.
 4. Crie um programa em Java que imprima apenas os múltiplos de 3 e 7, até 100 vezes. 
