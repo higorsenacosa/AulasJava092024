@@ -122,5 +122,15 @@ Obs.: O final das leituras dos dados se dará com a entrada de um “salário ne
 3. Crie um sistema em Java para a leitura dos 30 usuários na empresa Davi's Model.
 4. Crie um programa em Java que imprima apenas os múltiplos de 3 e 7, até 100 vezes. 
 5. Faça um programa em Java para ler 50 números e armazenar em um vetor VET, verificar e escrever se existem números repetidos no vetor VET e em que posições se encontram.
+# Exercícios de 02/10/2024
 
+1. Implemente uma classe em Java denominada Pessoa com os atributos nome (String), sobrenome (String), idade (int) e sexo (char). Inclua um método para calcular e retornar a idade da pessoa.
+
+2. Desenvolva uma classe em Java chamada RegistroProdutos para armazenar informações de 10 produtos. Cada produto deve conter nome (String), preço (double) e quantidade (int). Implemente um método para calcular e retornar a quantidade total de produtos registrados.
+
+3. Crie uma classe em Java chamada ContaBancaria com os atributos numeroConta (String), titular (String) e saldo (double). Implemente métodos para depositar, sacar e verificar o saldo da conta.
+
+4. Desenvolva uma classe em Java denominada Biblioteca para gerenciar uma coleção de livros. Cada livro deve ter título (String), autor (String) e anoPublicacao (int). Implemente um método para adicionar livros e outro para buscar livros por autor.
+
+5. Implemente uma classe em Java chamada Funcionario com os atributos nome (String), cargo (String) e salario (double). Crie um método para calcular o aumento salarial baseado em uma porcentagem fornecida como parâmetro.
 
